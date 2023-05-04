@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank RedempƟon",
+    "genre": "Drama",
+    "releaseDate": "22-09-1994",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redempƟon through acts of common decency."
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "releaseDate": "24-03-1972",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandes oneempire to his reluctant son."
+  },
+  {
+    "id": 3,
+    "title": "Pulp FicƟon",
+    "genre": "Drama",
+    "releaseDate": "14-10-1994",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redempƟon."
+  },
+  {
+    "id": 4,
+    "title": "The Book of Eli",
+    "genre": "Action",
+    "releaseDate": "1-2-2010",
+    "description": "The Book of Eli is a 2010 American post-apocalyptic neo-Western action film directed by the Hughes Brothers, written by Gary Whitta"
+  },
+  {
+    "id": 5,
+    "title": "Wonderful World",
+    "genre": "Comedy",
+    "releaseDate": "1-2-2010",
+    "description": "Wonderful World is a 2009 dark comedy-drama film written and directed by Joshua Goldin, and starring Matthew Broderick, Sanaa Lathan, Michael K."
+  },
+  {
+    "id": 6,
+    "title": "Waiting for Armageddon",
+    "genre": "Documentary",
+    "releaseDate": "5-4-2010",
+    "description": "Waiting for Armageddon is a 2009 American documentary film that studies Armageddon theology and Christian eschatology."
+  },
+  {
+    "id": 7,
+    "title": "Crazy on the Outside",
+    "genre": "Comedy",
+    "releaseDate": "5-2-2011",
+    "description": "Crazy on the Outside is a 2010 American comedy film starring and directed by Tim Allen. The film marks Allen's feature film directorial debut"
+  },
+  {
+    "id": 8,
+    "title": "B*tch Slap",
+    "genre": "Action",
+    "releaseDate": "1-1-2010",
+    "description": "Bitch Slap is a 2009 American action film directed by Rick Jacobson and starring Julia Voth, Erin Cummings, America Olivo and Michael Hurst, with cameos by Lucy Lawless."
+  },
+  {
+    "id": 9,
+    "title": "Leap Year",
+    "genre": "Romance",
+    "releaseDate": "1-2-2010",
+    "description": "Leap Year is a 2010 romantic comedy directed by Anand Tucker and written by Harry Elfont and Deborah Kaplan. Leap Year stars Amy Adams and Matthew Goode."
+  },
+  {
+    "id": 10,
+    "title": "Youth in Revolt",
+    "genre": "Romance",
+    "releaseDate": "3-3-2010",
+    "description": "Youth in Revolt is a 2009 American romantic comedy-drama film directed by Miguel Arteta and written by Gustin Nash."
+  }
+]
